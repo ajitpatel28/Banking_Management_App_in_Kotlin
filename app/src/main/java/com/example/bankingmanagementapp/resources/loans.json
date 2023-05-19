@@ -1,0 +1,32 @@
+[
+  {
+    "loanId": "af6341a8-6abe-4ccd-9067-c9addeb373ad",
+    "accountNumber": "8531254d-29e9-408b-9e74-6c924c2d7804",
+    "amount": 10000.0,
+    "rate": 0.05,
+    "duration": 12,
+    "startDate": "Mar 1, 2023, 12:43:01 AM",
+    "status": "approved",
+    "userId": "de3ef537-a12d-47b1-a81e-bae1fb7f3739"
+  },
+  {
+    "loanId": "15c0060c-93da-4270-9bd8-ddaedbcd79fa",
+    "accountNumber": "ddfefa53-3b4e-44c9-b483-deee8ec26698",
+    "amount": 8.9E11,
+    "rate": 0.05,
+    "duration": 12,
+    "startDate": "Mar 1, 2023, 2:26:02 PM",
+    "status": "approved",
+    "userId": "f9d0a2a8-079d-4a96-b766-baa7790e8e73"
+  },
+  {
+    "loanId": "2e681684-8428-484a-be2b-949aeda07d93",
+    "accountNumber": "bc5805d8-5723-4221-b342-a93b8f4757ba",
+    "amount": 2000000.0,
+    "rate": 0.05,
+    "duration": 12,
+    "startDate": "Mar 6, 2023, 7:29:25 PM",
+    "status": "approved",
+    "userId": "c777445a-dec6-4859-8fa4-c448cc671196"
+  }
+]

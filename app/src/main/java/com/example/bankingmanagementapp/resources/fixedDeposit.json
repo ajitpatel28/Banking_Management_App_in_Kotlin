@@ -1,0 +1,34 @@
+[
+  {
+    "fixedDepositId": "796f1ddc-2413-48c9-b7bf-641eb2f80134",
+    "accountNumber": "7e7b253e-78d0-464d-b4d0-5b5ffe3a4bb6",
+    "interestRate": 0.06,
+    "depositAmount": 2000.0,
+    "tenure": 10,
+    "userId": "de3ef537-a12d-47b1-a81e-bae1fb7f3739"
+  },
+  {
+    "fixedDepositId": "bef09344-8e7f-4165-b8a1-997d9b811707",
+    "accountNumber": "1fcd18a8-321f-4a9d-9ecb-3571e2ddeb05",
+    "interestRate": 0.07,
+    "depositAmount": 20000.0,
+    "tenure": 13,
+    "userId": "de3ef537-a12d-47b1-a81e-bae1fb7f3739"
+  },
+  {
+    "fixedDepositId": "5c0cc117-e291-4122-aab7-f1c9342ce83e",
+    "accountNumber": "ddfefa53-3b4e-44c9-b483-deee8ec26698",
+    "interestRate": 0.05,
+    "depositAmount": 6.7E9,
+    "tenure": 6,
+    "userId": "f9d0a2a8-079d-4a96-b766-baa7790e8e73"
+  },
+  {
+    "fixedDepositId": "1e06acd6-4854-43a7-acff-1d750149762a",
+    "accountNumber": "bc5805d8-5723-4221-b342-a93b8f4757ba",
+    "interestRate": 0.06,
+    "depositAmount": 30000.0,
+    "tenure": 10,
+    "userId": "c777445a-dec6-4859-8fa4-c448cc671196"
+  }
+]
